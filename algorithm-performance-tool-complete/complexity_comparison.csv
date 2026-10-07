@@ -1,0 +1,7 @@
+Algorithm / Pattern,Best Case,Average Case,Worst Case,Space
+Linear Search,O(1),O(n),O(n),O(1)
+Binary Search,O(1),O(log n),O(log n),O(1)
+Single Loop,O(n),O(n),O(n),O(1)
+Nested Loop,O(n²),O(n²),O(n²),O(1)
+Factorial (Recursive),O(n),O(n),O(n),O(n)
+Factorial (Iterative),O(n),O(n),O(n),O(1)
